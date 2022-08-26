@@ -13,3 +13,4 @@ token.yaml
 credential.json
 *.code-workspace
 credentials.json
+/credentials/
