@@ -38,6 +38,8 @@ Everyone interacting in the Googleapiop project's codebases, issue trackers, cha
 
 ## Privacy Policy
 
-[Privacy Policy](https://github.com/ykominami/googleapiop/blob/main/docu/privacy/d7fd5f6c-515a-4b0a-97dd-ebd54cfc781e_en.md)
+[Privacy Policy](https://a.northern-cross.info/docu/googleapiop/privacy/d7fd5f6c-515a-4b0a-97dd-ebd54cfc781e_en.html)
 
-[Term of Conditions](https://github.com/ykominami/googleapiop/blob/main/docu/terms/76013f79-2e0b-4bf5-a66b-296923366a36_en.md)
+## Terms of Conditions
+
+[Terms of Conditions](https://a.northern-cross.info/docu/googleapiop/terms/76013f79-2e0b-4bf5-a66b-296923366a36_en.html)
