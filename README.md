@@ -35,3 +35,9 @@ The gem is available as open source under the terms of the [MIT License](https:/
 ## Code of Conduct
 
 Everyone interacting in the Googleapiop project's codebases, issue trackers, chat rooms and mailing lists is expected to follow the [code of conduct](https://github.com/ykominami/googleapiop/blob/main/CODE_OF_CONDUCT.md).
+
+## Privacy Policy
+
+[Privacy Policy](https://github.com/ykominami/googleapiop/blob/main/docu/privacy/d7fd5f6c-515a-4b0a-97dd-ebd54cfc781e_en.md)
+
+[Term of Conditions](https://github.com/ykominami/googleapiop/blob/main/docu/terms/76013f79-2e0b-4bf5-a66b-296923366a36_en.md)
