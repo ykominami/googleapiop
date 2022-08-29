@@ -38,9 +38,9 @@ Everyone interacting in the Googleapiop project's codebases, issue trackers, cha
 
 ## Privacy Policy
 
-[Privacy Policy](https://a.northern-cross.info/docu/googleapiop/privacy/d7fd5f6c-515a-4b0a-97dd-ebd54cfc781e_en.html)
+[Privacy Policy](https://f.northern-cross.info/docu/googleapiop/privacy/d7fd5f6c-515a-4b0a-97dd-ebd54cfc781e_en.html)
 
 ## Terms of Conditions
 
-[Terms of Conditions](https://a.northern-cross.info/docu/googleapiop/terms/76013f79-2e0b-4bf5-a66b-296923366a36_en.html)
+[Terms of Conditions](https://f.northern-cross.info/docu/googleapiop/terms/76013f79-2e0b-4bf5-a66b-296923366a36_en.html)
 
