@@ -9,7 +9,8 @@ gem "rake", "~> 13.0"
 
 gem "rspec", "~> 3.0"
 
-gem "google-api-client"
+#gem "google-api-client"
+gem 'google-apis-sheets_v4', '~> 0.17.0'
 
 gem "jekyll"
 
