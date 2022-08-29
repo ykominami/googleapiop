@@ -21,9 +21,6 @@
 title: Googleapiop
 email: ykominami@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  and in your feed.xml site description.
-  Google 
-  search results)
 baseurl: '/googleapiop' # the subpath of your site, e.g. /blog
 url: '' # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ykominami

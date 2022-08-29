@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Googleapiop
 
 Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/googleapiop`. To experiment with that code, run `bin/console` for an interactive prompt.
@@ -44,3 +45,26 @@ Everyone interacting in the Googleapiop project's codebases, issue trackers, cha
 
 [Terms of Conditions](https://a.northern-cross.info/docu/googleapiop/terms/76013f79-2e0b-4bf5-a66b-296923366a36_en.html)
 
+||||||| d828181
+=======
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+---
+
+a<br>
+b<br>
+c<br>
+90909090<br>
+paginator.page={{ paginator.page }}<br>
+paginator.per_page={{ paginator.per_page }}<br>
+paginator.posts={{ paginator.posts }}<br>
+paginator.total_posts={{ paginator.total_posts }}<br>
+paginator.total_pages={{ paginator.total_pages }}<br>
+<br>
+{% if user %}
+Hello {{ user.name }}!
+{% endif %}
+>>>>>>> 56d08bb5aa63a5c0fceaf3ce0fdf94d029f74c87
