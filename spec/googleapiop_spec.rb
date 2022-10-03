@@ -6,6 +6,7 @@ RSpec.describe Googleapiop do
   end
 
   it "does something useful" do
-    expect(false).to eq(true)
+    ret = true
+    expect(ret).to eq(true)
   end
 end

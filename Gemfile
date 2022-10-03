@@ -1,15 +1,29 @@
 # frozen_string_literal: true
 
-source "https://rubygems.org"
+source 'https://rubygems.org'
 
 # Specify your gem's dependencies in googleapiop.gemspec
 gemspec
 
-gem "rake", "~> 13.0"
+gem 'bundler'
+gem 'debug'
+gem 'rake', '~> 13.0'
+gem 'google-api-client'
 
-gem "rspec", "~> 3.0"
+group :development do
+  gem 'jekyll'
+  gem 'yard'
+end
 
-gem "google-api-client"
+group :test, optional: true do
+  gem 'power_assert', '~> 1.1.5'
+  gem 'rspec', '~> 3.0'
+  gem 'rubocop'
+  gem 'rubocop-performance'
+  gem 'rubocop-rake'
+  gem 'rubocop-rspec'
+end
 
-gem "jekyll"
+
+
 

@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.description = "Utility for Google Client Library for Google API."
   spec.homepage = "https://ykominami.github.io/googleapiop"
   spec.license = "MIT"
-  spec.required_ruby_version = ">= 2.6.0"
+  spec.required_ruby_version = ">= 2.7.0"
 
   #spec.metadata["allowed_push_host"] = "TODO: Set to your gem server 'https://example.com'"
 
@@ -30,6 +30,20 @@ Gem::Specification.new do |spec|
   spec.bindir = "exe"
   spec.executables = spec.files.grep(%r{\Aexe/}) { |f| File.basename(f) }
   spec.require_paths = ["lib"]
+
+  spec.add_runtime_dependency 'bundler'
+  spec.add_runtime_dependency 'debug'
+  spec.add_runtime_dependency 'rake', '~> 13.0'
+  spec.add_runtime_dependency 'google-api-client'
+
+  spec.add_development_dependency 'jekyll'
+  spec.add_development_dependency 'yard'
+  spec.add_development_dependency 'power_assert', '~> 1.1.5'
+  spec.add_development_dependency 'rspec', '~> 3.0'
+  spec.add_development_dependency 'rubocop'
+  spec.add_development_dependency 'rubocop-performance'
+  spec.add_development_dependency 'rubocop-rake'
+  spec.add_development_dependency 'rubocop-rspec'
 
   # Uncomment to register a new dependency of your gem
   # spec.add_dependency "example-gem", "~> 1.0"
