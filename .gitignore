@@ -16,4 +16,6 @@ credentials.json
 /credentials/
 /vendor/
 .ruby-version
+.jekyll-cache/
+/export/
 

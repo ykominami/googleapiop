@@ -14,8 +14,10 @@ jobs:
     strategy:
       matrix:
         ruby:
-          - '2.6.9'
+          - '2.7'
 
+    env:
+      BUNDLE_WITH: test
     steps:
     - uses: actions/checkout@v2
     - name: Set up Ruby
