@@ -7,8 +7,8 @@ gemspec
 
 gem 'bundler'
 gem 'debug'
-gem 'rake', '~> 13.0'
 gem 'google-api-client'
+gem 'rake', '~> 13.0'
 
 group :development do
   gem 'jekyll'
@@ -23,7 +23,3 @@ group :test, optional: true do
   gem 'rubocop-rake'
   gem 'rubocop-rspec'
 end
-
-
-
-
