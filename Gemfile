@@ -10,6 +10,7 @@ gem 'debug'
 gem 'google-api-client'
 gem 'rake', '~> 13.0'
 gem 'nokogiri', '~> 1.14.3'
+gem 'activesupport' , '7.0.4.3'
 
 group :development do
   gem 'jekyll'
