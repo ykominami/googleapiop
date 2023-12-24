@@ -37,7 +37,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'rake', '~> 13.0'
 
   spec.add_development_dependency 'jekyll'
-  spec.add_development_dependency 'power_assert', '~> 1.1.5'
+  spec.add_development_dependency 'power_assert', '~> 2.0.3'
   spec.add_development_dependency 'rspec', '~> 3.0'
   spec.add_development_dependency 'rubocop'
   spec.add_development_dependency 'rubocop-performance'
