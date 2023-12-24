@@ -18,7 +18,7 @@ group :development do
 end
 
 group :test, optional: true do
-  gem 'power_assert', '~> 1.1.5'
+  gem 'power_assert', '~> 2.0.3'
   gem 'rspec', '~> 3.0'
   gem 'rubocop'
   gem 'rubocop-performance'
