@@ -36,14 +36,14 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency 'google-api-client'
   spec.add_runtime_dependency 'rake', '~> 13.0'
 
-  spec.add_development_dependency 'jekyll'
-  spec.add_development_dependency 'power_assert', '~> 2.0.3'
-  spec.add_development_dependency 'rspec', '~> 3.0'
-  spec.add_development_dependency 'rubocop'
-  spec.add_development_dependency 'rubocop-performance'
-  spec.add_development_dependency 'rubocop-rake'
-  spec.add_development_dependency 'rubocop-rspec'
-  spec.add_development_dependency 'yard'
+  # spec.add_development_dependency 'jekyll'
+  # spec.add_development_dependency 'power_assert', '~> 2.0.3'
+  # spec.add_development_dependency 'rspec', '~> 3.0'
+  # spec.add_development_dependency 'rubocop'
+  # spec.add_development_dependency 'rubocop-performance'
+  # spec.add_development_dependency 'rubocop-rake'
+  # spec.add_development_dependency 'rubocop-rspec'
+  # spec.add_development_dependency 'yard'
 
   # Uncomment to register a new dependency of your gem
   # spec.add_dependency "example-gem", "~> 1.0"
