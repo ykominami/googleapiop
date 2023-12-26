@@ -5,7 +5,7 @@ source 'https://rubygems.org'
 # Specify your gem's dependencies in googleapiop.gemspec
 gemspec
 
-gem 'activesupport', '7.0.7.1'
+gem 'activesupport', '7.1.2'
 gem 'bundler'
 gem 'debug'
 gem 'google-api-client'
