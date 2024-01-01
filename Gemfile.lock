@@ -82,7 +82,7 @@ GEM
     irb (1.11.0)
       rdoc
       reline (>= 0.3.8)
-    jekyll (4.3.2)
+    jekyll (4.3.3)
       addressable (~> 2.4)
       colorator (~> 1.0)
       em-websocket (~> 0.5)
