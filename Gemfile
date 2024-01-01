@@ -9,7 +9,7 @@ gem 'activesupport', '7.1.2'
 gem 'bundler'
 gem 'debug'
 gem 'google-api-client'
-gem 'nokogiri', '~> 1.14.3'
+gem 'nokogiri', '~> 1.15.5'
 gem 'rake', '~> 13.1'
 
 group :development do
